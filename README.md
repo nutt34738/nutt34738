@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nutt34738&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Dev Meme
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fprogrammerhumor.io%2Fpython-memes%2Fhtml-css-2%2F&psig=AOvVaw24kEBFLkSuCUgAMpX6K815&ust=1719029127292000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOCz1djo64YDFQAAAAAdAAAAABAJ' style="height: 400px;"/>
+<img src='https://programmerhumor.io/wp-content/uploads/2024/02/programmerhumor-io-frontend-memes-python-memes-b378bbabd65f11e.png' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nutt34738&icon=0&color=0)](https://visitcount.itsvg.in)
