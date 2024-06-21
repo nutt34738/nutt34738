@@ -6,7 +6,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nutt34738&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nutt34738&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Dev Meme
 <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDOjZoEHfiYEIgz5edxdp-3Cr-VML5qOA4Ew&s' style="height: 400px;"/>
 
 ---
